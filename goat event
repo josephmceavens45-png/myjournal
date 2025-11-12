@@ -1,0 +1,2 @@
+$ echo "# myjournal" >> README.md
+  git init
